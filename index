@@ -22,8 +22,8 @@
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
               <div class="navbar-nav">
                 <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-                <a class="nav-link" href="aboutus.html">About Us</a>
-                <a class="nav-link" href="contact.html">Contact</a>
+                <a class="nav-link" href="aboutus.html">About me</a>
+                <a class="nav-link" href="contact.html">Art</a>
               </div>
             </div>
           </div>
@@ -34,9 +34,9 @@
               <img src="Lamp.jpg" alt="Lightbulp in hand lights on" width="350" height="450">
             </div>
             <div class="col-sm-8">
-              <h2>Lorem Ipsum</h2>
-              <p> Maecenas convallis nisi quis fringilla accumsan. Morbi volutpat, dolor et placerat dapibus, mauris purus accumsan massa, in rutrum mi massa at quam. Nulla est erat, lobortis sed egestas ac, consequat in dui. Integer fermentum a sem vitae aliquam. Vestibulum quam erat, placerat sit amet posuere vel, pretium nec neque. Praesent eleifend condimentum neque ut dictum. Sed et erat nec sapien tincidunt pellentesque sit amet ut est. Sed lacinia vel odio fermentum tempus. Nam a eros sed sapien suscipit maximus.<br><br>
-                Pellentesque bibendum consequat mollis. Sed bibendum, purus vitae ultricies auctor, magna ante ultricies ex, faucibus fringilla massa massa at nulla. Mauris iaculis, sem nec tempus ultrices, velit lectus bibendum libero, in rutrum libero ipsum vitae mauris. Fusce hendrerit accumsan lorem sit amet commodo. Integer tempus turpis metus, a pulvinar mi ultricies id. Integer facilisis aliquam ante, eu euismod ante tincidunt non. Pellentesque at nibh at sem convallis molestie. Proin vehicula facilisis ex, at tincidunt magna placerat sit amet. Nullam interdum nisl facilisis nibh malesuada aliquam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque vehicula, orci ac mollis mattis, tortor est mattis leo, et vestibulum nisi nisl eu arcu. </p>
+              <h2>Hello</h2>
+              <p> Welcome to my webpages, here you will find portfolio of some of my photos and art. Art includes drawings and paintings. Hope you enjoy your stay on this page.You can find photos under "photo" tab in navigation and art under "art" tab in navigation.
+              If you are more interested about creator behind pictures head over to "about me" tab in navication.</p>
             </div>
           </div>
         </div>
@@ -51,7 +51,7 @@
 
             <!-- Copyright -->
             <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-              © 2022 Copyright: All rights belong to owner of this web page
+              © 2022 Copyright: All rights belong to me Riina Aalto
             </div>
             <!-- Copyright -->
        
